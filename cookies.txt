@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ar.islamway.net	TRUE	/	FALSE	1999999999	last_search	Itin2YTYqNix2K%2FYqSI%3D
+ar.islamway.net	TRUE	/	FALSE	1999999999	__country	US
+ar.islamway.net	TRUE	/	FALSE	1999999999	PHPSESSID	t9i2r7rt3sni901fkjvgmj5d56
+

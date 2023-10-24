@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/ REC-SVG-20010904/DTD/svg10.dtd">
+<svg style="background:#6dd0f6; max-width:750px;" width="100%" height="180px"
+     preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     direction="rtl" xml:lang="ar">
+    <defs>
+      <style type="text/css"><![CDATA[
+      .info { font-family:"Traditional Arabic"; font-weight:bold; }
+      #author { font-size:20pt; fill:#fff685; }
+      #collection { fill:#fff685; }
+      #entry, #collection { font-size:20pt; fill:#fff; }
+
+      .ltr #entry, .ltr #collection { font-size: 17px; }
+      @media (max-width: 480px) {
+        .rtl #author { font-size: 22px; }
+        .ltr #author { font-size: 16px; }
+        #entry, #collection { font-weight: normal; }
+        .ltr #entry, .ltr #collection { font-size: 14px; }
+      }
+            .stroke { text-shadow: 1px 0 0 #666, -1px 0 0 #666, 0 1px 0 #666, 0 -1px 0 #666, 1px 1px #666, -1px -1px 0 #666, 1px -1px 0 #666, -1px 1px 0 #666; }
+      ]]></style>
+                    <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" style="stop-color:rgb(40, 182, 246);stop-opacity:1"/>
+                <stop offset="100%" style="stop-color:rgb(40, 182, 246);stop-opacity:1"/>
+            </linearGradient>
+            </defs>
+
+            <g id="Layer_2">
+            <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="130" x2="750" y2="130">
+                <stop offset="0" style="stop-color:#4496D1"/>
+                <stop offset="1" style="stop-color:#6DD0F6"/>
+            </linearGradient>
+            <rect fill="url(#SVGID_1_)" width="750" height="180px"/>
+
+            <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="374.8786" y1="335.2198" x2="374.8786"
+                            y2="228.6516"
+                            gradientTransform="matrix(4.489659e-011 1 -1 4.489659e-011 504.5847 -245.9031)">
+                <stop offset="0.0054" style="stop-color:#FFFFFF"/>
+                <stop offset="0.2496" style="stop-color:#F1F2F3"/>
+                <stop offset="0.7103" style="stop-color:#CCD1D3"/>
+                <stop offset="0.9946" style="stop-color:#B2B9BC"/>
+            </linearGradient>
+            <circle opacity="0.1" fill="url(#SVGID_2_)" cx="222.649" cy="128.976" r="53.284"/>
+
+            <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="334.9276" y1="248.6183" x2="334.9276"
+                            y2="168.7162"
+                            gradientTransform="matrix(4.489659e-011 1 -1 4.489659e-011 504.5847 -245.9031)">
+                <stop offset="0.0054" style="stop-color:#FFFFFF"/>
+                <stop offset="0.2496" style="stop-color:#F1F2F3"/>
+                <stop offset="0.7103" style="stop-color:#CCD1D3"/>
+                <stop offset="0.9946" style="stop-color:#B2B9BC"/>
+            </linearGradient>
+            <circle opacity="0.1" fill="url(#SVGID_3_)" cx="295.917" cy="89.024" r="39.951"/>
+
+            <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="312.4055" y1="429.3144" x2="312.4055"
+                            y2="345.2526"
+                            gradientTransform="matrix(4.489659e-011 1 -1 4.489659e-011 504.5847 -245.9031)">
+                <stop offset="0.0054" style="stop-color:#FFFFFF"/>
+                <stop offset="0.2496" style="stop-color:#F1F2F3"/>
+                <stop offset="0.7103" style="stop-color:#CCD1D3"/>
+                <stop offset="0.9946" style="stop-color:#B2B9BC"/>
+            </linearGradient>
+            <circle opacity="0.2" fill="url(#SVGID_4_)" cx="117.301" cy="66.502" r="42.031"/>
+
+            <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="404.222" y1="-45.9062" x2="404.222"
+                            y2="-150.9004"
+                            gradientTransform="matrix(4.489659e-011 1 -1 4.489659e-011 504.5847 -245.9031)">
+                <stop offset="0.0054" style="stop-color:#FFFFFF"/>
+                <stop offset="0.2496" style="stop-color:#F1F2F3"/>
+                <stop offset="0.7103" style="stop-color:#CCD1D3"/>
+                <stop offset="0.9946" style="stop-color:#B2B9BC"/>
+            </linearGradient>
+            <circle opacity="0.1" fill="url(#SVGID_5_)" cx="602.988" cy="158.319" r="52.498"/>
+            <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="702.9937" y1="86.9942" x2="702.9937"
+                            y2="1.875000e-006">
+                <stop offset="0.0054" style="stop-color:#FFFFFF"/>
+                <stop offset="0.2496" style="stop-color:#F1F2F3"/>
+                <stop offset="0.7103" style="stop-color:#CCD1D3"/>
+                <stop offset="0.9946" style="stop-color:#B2B9BC"/>
+            </linearGradient>
+            <circle opacity="0.2" fill="url(#SVGID_6_)" cx="702.994" cy="43.497" r="43.498"/>
+            <linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="665.4961" y1="166.4908" x2="665.4961"
+                            y2="61.4966">
+                <stop offset="0.0054" style="stop-color:#FFFFFF"/>
+                <stop offset="0.2496" style="stop-color:#F1F2F3"/>
+                <stop offset="0.7103" style="stop-color:#CCD1D3"/>
+                <stop offset="0.9946" style="stop-color:#B2B9BC"/>
+            </linearGradient>
+            <circle opacity="0.1" fill="url(#SVGID_7_)" cx="665.496" cy="113.994" r="52.498"/>
+        </g>
+    
+
+        <g class="info rtl">
+                <text x="95%" y="40" id="author">&#x200F;
+                                                عبد الرحمن رأفت الباشا
+                                    </text>
+                        <text x="95%" y="80" id="collection">&#x200F;صور من حياة الصحابة</text>
+        
+                <text x="95%" y="120" id="entry">&#x200F;(35) عقبة بن عامر الجهني رضي الله عنه</text>
+    </g>
+                            <clipPath id="clipCircle">
+            <rect id="img-container" x="10" y="10" width="50" height="50" rx="45"/>
+        </clipPath>
+        <rect x="10" y="10" width="50" height="50" transform="translate(0 0)" rx="50" stroke="white" stroke-width="1"/>
+        <image x="10" y="10" width="50" height="50" transform="translate(0 0)" style="filter:blur(0px);" clip-path="url(#clipCircle)" preserveAspectRatio="none" xlink:href="data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwAIBgYHBgUIBwcHCQkICgwUDQwLCwwZEhMPFB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB8nOT04MjwuMzQy/9sAQwEJCQkMCwwYDQ0YMiEcITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy/8AAEQgAMgAyAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A57zBjGazNV1FLCENgM7HCrWmI8qeK5nxLCTe2g2kqQf5iuWCTlqJm7ZaZcanFC88jIrgNtjOK6m08FwSwLsaRHx94MT+eaZpfl+XFJgJHtGPauz0q/s5pDbxSDzVGSrKR/OobZUUup5jqem3ekXot7lcqwLRyAYDAdfxFUWPJr0jxolteaW4V1M9uyvgdeuD/OvOmSqTFJWIciin7KKZJtJbnHApk1jDLbTLOisdufm7fT0NdUunDaMiuf8AEdxaW0KW6XMf2l3x5aMC20DJyOwrNFtF3Sora5tRbOWTgBGQ4K1o/YbXR9QtJfOdp8HhnLEqT3yTiua025xImDjBFdTPaR31ykj2sdzEAPm5JH5UDWxPqmkiPT7+4E8jllLbC5IHIPT6VwUiYB4r0TUI9unPsQRmRRHtAxlfcfn+dcVdW5TORTTCSMnb7UVKcZoqrkWOb1vxzrWthohILS2/55QEjP1bqf5Vi6VdjTtVt7qRPMRG/eJ/eU8MPyJqDA5FN2/Lk12KKSsibs9Sv9IubWBL6wZrmwkQOkqclVIyMj+tVNA13XFvzHp0QuI/494bCD1JHStH4cajNf8AhW90qCfyby2yY5SN2xG7gd8HP5iq2iXR0DwF4iaWZWlaR7RkXgF+m4HvnJ/IVyONm0aW6jn+KMbajtntDLaYAMkfDZ7kA9q3kutM1uy87T7qOXPJQHDL9R1FeKAcU6GR4GEkbsjjoynBFaujFrQnmfU9YOmDJ4P5UV50uv6uFA/tK56f89DRUexfcOZGN/y0pT0oorqJO1+GDsviC+2sRmwl6H3WscSO3g2Xc7HdeKTk9Tg0UVjL4/uL6GOnIpPWiitEQxw6UUUUCP/Z"/>
+        <!--
+    <image x="8" y="8" width="80" height="80" xlink:href=""/>
+    -->
+</svg>
